@@ -7,4 +7,5 @@ informasi perangkat (hostname, sistem operasi, dan arsitektur).
 3. export APP_ENV="development"
 4. python server.py
 5. Akses melalui browser: http://localhost:5000
-6. Dibuat oleh: Benedict Archie Junio - 2505110036
+
+Dibuat oleh: Benedict Archie Junio - 2505110036
