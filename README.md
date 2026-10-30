@@ -1,4 +1,4 @@
-8i # Flask Web Server - Praktikum Pertemuan 1
+# Flask Web Server - Praktikum Pertemuan 1
 Aplikasi web server sederhana berbasis Python Flask yang menampilkan
 informasi perangkat (hostname, sistem operasi, dan arsitektur).
 ## Cara Menjalankan
